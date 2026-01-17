@@ -1,0 +1,5 @@
+{
+  "name": "Shadcn Visual Builder",
+  "description": "A developer-first, drag-and-drop landing page builder generating clean React + Tailwind code.",
+  "requestFramePermissions": []
+}
