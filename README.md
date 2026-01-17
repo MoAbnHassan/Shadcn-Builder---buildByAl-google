@@ -1,29 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="ff.png" />
-</div>
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-
-
-
-
-
-   # 🚀 Shadcn Visual Builder
+# 🚀 Shadcn Visual Builder
 
 **A developer-first, drag-and-drop landing page builder generating clean React + Tailwind code.**
 
 This tool allows you to visually construct landing pages using pre-built, accessible components designed with the **Shadcn UI** aesthetic. It provides a real-time preview, extensive customization options, and generates production-ready code that you can copy and paste directly into your Next.js or React projects.
 
-![Project Preview](https://via.placeholder.com/1200x600?text=Shadcn+Visual+Builder+Preview)
+![Project Preview](ff.png)
 *(Replace this link with an actual screenshot of your app)*
 
 ---
@@ -147,7 +128,20 @@ src/
 
 ```
 
-🤝 Contributing
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+   
+...
+  
+## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 Fork the project.
 Create your feature branch (git checkout -b feature/AmazingFeature).
